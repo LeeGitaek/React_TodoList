@@ -1,9 +1,10 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-<img width="580" alt="스크린샷 2023-06-24 오전 11 51 21" src="https://github.com/LeeGitaek/React_TodoList/assets/5070020/13745862-ea3a-4c1f-bbcb-0437cc0d8c46">
-<img width="576" alt="스크린샷 2023-06-24 오전 11 51 27" src="https://github.com/LeeGitaek/React_TodoList/assets/5070020/75857d2f-895b-4d4c-9925-abb03abdf97e">
 
+<img style="float: left;" width="580" alt="스크린샷 2023-06-24 오전 11 51 21" src="https://github.com/LeeGitaek/React_TodoList/assets/5070020/13745862-ea3a-4c1f-bbcb-0437cc0d8c46">
+<img style="float: left;" width="576" alt="스크린샷 2023-06-24 오전 11 51 27" src="https://github.com/LeeGitaek/React_TodoList/assets/5070020/75857d2f-895b-4d4c-9925-abb03abdf97e">
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Available Scripts
 
 In the project directory, you can run:
